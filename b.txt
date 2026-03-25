@@ -1,0 +1,1 @@
+b.txt contains changes of a.txt in Dev2 of realease 
